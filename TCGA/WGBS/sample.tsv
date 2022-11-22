@@ -1,0 +1,48 @@
+barcode	tumor/normal	cancer	TCGAproject	caseID	Download_Links
+TCGA_BLCA_A2LA	tumor	BLCA	TCGA-BLCA	797a71ee-372d-41e5-aeee-5ab3c4661110	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_BLCA_A2LA.bed.gz
+TCGA_BLCA_A13J	tumor	BLCA	TCGA-BLCA	556fcbc8-172a-4af1-8822-ae036e8d68e8	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_BLCA_A13J.bed.gz
+TCGA_BLCA_A1AG	tumor	BLCA	TCGA-BLCA	f8c0a69c-df53-4a0a-a30e-4424c0ce3dd5	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_BLCA_A1AG.bed.gz
+TCGA_BLCA_A2HQ	tumor	BLCA	TCGA-BLCA	cede5274-279d-4021-8aca-5ecc4bf94d66	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_BLCA_A2HQ.bed.gz
+TCGA_BLCA_A1AA	tumor	BLCA	TCGA-BLCA	56d8a1b8-1268-4362-a7f1-77b76fbf1b59	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_BLCA_A1AA.bed.gz
+TCGA_BLCA_A20V	tumor	BLCA	TCGA-BLCA	24f21425-b001-4986-aedf-5b4dd851c6ad	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_BLCA_A20V.bed.gz
+TCGA_BLCA_NA20V	adjacent normal	BLCA	TCGA-BLCA	24f21425-b001-4986-aedf-5b4dd851c6ad	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_BLCA_NA20V.bed.gz
+TCGA_BRCA_A0YG	tumor	BRCA	TCGA-BRCA	c0892598-1f7b-4f23-9cd8-731f797753d5	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_BRCA_A0YG.bed.gz
+TCGA_BRCA_A07I	tumor	BRCA	TCGA-BRCA	566792ae-f853-4a47-856d-f02cdcfcb18a	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_BRCA_A07I.bed.gz
+TCGA_BRCA_A15H	tumor	BRCA	TCGA-BRCA	5580b21a-2cdb-4777-ad79-6e06654144f5	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_BRCA_A15H.bed.gz
+TCGA_BRCA_A04X	tumor	BRCA	TCGA-BRCA	733a2a0f-b37a-4b81-b49e-3c0f30d1eb37	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_BRCA_A04X.bed.gz
+TCGA_BRCA_A0CE	tumor	BRCA	TCGA-BRCA	9d95a65b-e41d-4f93-92d4-99dce29ff40d	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_BRCA_A0CE.bed.gz
+TCGA_BRCA_NA0CE	adjacent normal	BRCA	TCGA-BRCA	9d95a65b-e41d-4f93-92d4-99dce29ff40d	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_BRCA_NA0CE.bed.gz
+TCGA_COAD_A00R	tumor	COAD	TCGA-COAD	ca22edd4-eb7c-4677-84aa-6f0354459a19	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_COAD_A00R.bed.gz
+TCGA_COAD_3518	tumor	COAD	TCGA-COAD	c5c4a0a5-900d-483d-9282-475654d63265	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_COAD_3518.bed.gz
+TCGA_COAD_N3518	adjacent normal	COAD	TCGA-COAD	c5c4a0a5-900d-483d-9282-475654d63265	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_COAD_N3518.bed.gz
+TCGA_GBM_1788	tumor	GBM	TCGA-GBM	9a41f05b-19b1-4269-9997-4b59e378280c	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_GBM_1788.bed.gz
+TCGA_GBM_1460	tumor	GBM	TCGA-GBM	827453a9-7388-4336-9ac5-4defcb904607	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_GBM_1460.bed.gz
+TCGA_GBM_0128	tumor	GBM	TCGA-GBM	31e6e6c8-9197-4927-bfe4-8f6836f963da	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_GBM_0128.bed.gz
+TCGA_GBM_3477	tumor	GBM	TCGA-GBM	60e47b7d-c664-46c0-ac13-db688d4b8a58	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_GBM_3477.bed.gz
+TCGA_GBM_1401	tumor	GBM	TCGA-GBM	6176621d-8534-4fba-a0e7-74a5a78245a9	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_GBM_1401.bed.gz
+TCGA_GBM_1454	tumor	GBM	TCGA-GBM	c2399f5d-dc29-42e9-81f1-1d164d4cc55d	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_GBM_1454.bed.gz
+TCGA_LUAD_6215	tumor	LUAD	TCGA-LUAD	dbd5b0de-94c9-45dd-afb3-6820a7ecaca2	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_LUAD_6215.bed.gz
+TCGA_LUAD_7156	tumor	LUAD	TCGA-LUAD	7b0622ab-63ea-483f-ae40-d3ea587bdbba	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_LUAD_7156.bed.gz
+TCGA_LUAD_4630	tumor	LUAD	TCGA-LUAD	f1985735-a188-4567-a88a-530f9b80291b	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_LUAD_4630.bed.gz
+TCGA_LUAD_6840	tumor	LUAD	TCGA-LUAD	d5326429-9805-47f9-97b0-fbda658e3f01	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_LUAD_6840.bed.gz
+TCGA_LUAD_6148	tumor	LUAD	TCGA-LUAD	8994c8c4-9ea0-46cb-b4a5-0055d7da5bfa	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_LUAD_6148.bed.gz
+TCGA_LUAD_N6148	adjacent normal	LUAD	TCGA-LUAD	8994c8c4-9ea0-46cb-b4a5-0055d7da5bfa	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_LUAD_N6148.bed.gz
+TCGA_LUSC_2695	tumor	LUSC	TCGA-LUSC	acae4e48-57de-40c5-9ae5-4386144ebaea	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_LUSC_2695.bed.gz
+TCGA_LUSC_1078	tumor	LUSC	TCGA-LUSC	0ab8d063-62b4-4d47-82aa-e3351a60029d	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_LUSC_1078.bed.gz
+TCGA_LUSC_2600	tumor	LUSC	TCGA-LUSC	da61857a-b00e-4a19-ab02-8fbb2ee56bea	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_LUSC_2600.bed.gz
+TCGA_LUSC_2722	tumor	LUSC	TCGA-LUSC	6fd72426-f6c8-47ca-a500-d5d3600b9b15	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_LUSC_2722.bed.gz
+TCGA_LUSC_N2722	adjacent normal	LUSC	TCGA-LUSC	6fd72426-f6c8-47ca-a500-d5d3600b9b15	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_LUSC_N2722.bed.gz
+TCGA_READ_3593	tumor	READ	TCGA-READ	10290e91-9784-4f94-8daa-b5d9a8b0efb9	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_READ_3593.bed.gz
+TCGA_READ_2689	tumor	READ	TCGA-READ	335d0351-3740-4847-9ff4-be2f078c70f7	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_READ_2689.bed.gz
+TCGA_READ_N2689	adjacent normal	READ	TCGA-READ	335d0351-3740-4847-9ff4-be2f078c70f7	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_READ_N2689.bed.gz
+TCGA_STAD_6519	tumor	STAD	TCGA-STAD	e37cae9e-0656-4b89-b326-739a5cc859e0	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_STAD_6519.bed.gz
+TCGA_STAD_6177	tumor	STAD	TCGA-STAD	c3cba26e-38c2-4569-afd6-6b045e604808	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_STAD_6177.bed.gz
+TCGA_STAD_5730	tumor	STAD	TCGA-STAD	09587f1c-5c99-4102-bc49-84d50fa8d0ce	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_STAD_5730.bed.gz
+TCGA_STAD_6452	tumor	STAD	TCGA-STAD	27988b3e-cde1-4f4b-82a1-6d8ad08db8e9	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_STAD_6452.bed.gz
+TCGA_STAD_N6452	adjacent normal	STAD	TCGA-STAD	27988b3e-cde1-4f4b-82a1-6d8ad08db8e9	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_STAD_N6452.bed.gz
+TCGA_UCEC_A0G2	tumor	UCEC	TCGA-UCEC	4abbd258-0f0c-4428-901d-625d47ad363a	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_UCEC_A0G2.bed.gz
+TCGA_UCEC_A0K6	tumor	UCEC	TCGA-UCEC	5cba9441-6812-49c0-a0f6-7928ed4e5b81	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_UCEC_A0K6.bed.gz
+TCGA_UCEC_A05J	tumor	UCEC	TCGA-UCEC	38f9fe64-de79-498c-b3ca-1c83af0ed72a	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_UCEC_A05J.bed.gz
+TCGA_UCEC_A1CK	tumor	UCEC	TCGA-UCEC	45effb44-0b5f-4081-a202-d85969c72f2b	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_UCEC_A1CK.bed.gz
+TCGA_UCEC_A1CI	tumor	UCEC	TCGA-UCEC	fba80122-d8b2-4d8d-a032-9767e8160f9f	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_UCEC_A1CI.bed.gz
+TCGA_UCEC_NA1CI	adjacent normal	UCEC	TCGA-UCEC	fba80122-d8b2-4d8d-a032-9767e8160f9f	https://zwdzwd.s3.amazonaws.com/trackHubs/TCGA_WGBS/hg38/bed/TCGA_UCEC_NA1CI.bed.gz
