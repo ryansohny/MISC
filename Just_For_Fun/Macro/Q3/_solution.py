@@ -30,8 +30,7 @@ with open("sample_1.fastq", 'r') as fastq:
                     q20 += 1
                     if ascii33_dict[base] >= 30:
                         q30 += 1
-    print(base_count)
-    print(sum(base_count.values()))
+    
     print(f'Total Read Count: {total_read_count}')
     print(f'Total Base Count: {sum(base_count.values())}')
     print(f'Total A Count: {base_count["A"]}')
