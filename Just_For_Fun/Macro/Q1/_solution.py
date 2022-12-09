@@ -1,5 +1,6 @@
 import os
 os.chdir("C:\\Users\\mhryansohn.MACROGEN\\Desktop\\GitHub_repo\\MISC\\Just_For_Fun\\Macro\\Q1")
+os.chdir("/Users/mhryansohn/Desktop/99.Miscellaneous/GitHub_Repo/MISC/Just_For_Fun/Macro/Q1") # mac
 
 with open("gene_list.txt", 'r') as genef:
     exp_dic = {}

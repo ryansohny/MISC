@@ -1,5 +1,6 @@
 import os
 os.chdir("C:\\Users\\mhryansohn.MACROGEN\\Desktop\\GitHub_repo\\MISC\\Just_For_Fun\\Macro\\Q3")
+os.chdir("/Users/mhryansohn/Desktop/99.Miscellaneous/GitHub_Repo/MISC/Just_For_Fun/Macro/Q3") # mac
 
 with open("ascii33.txt", 'r') as asciif:
     ascii33_dict = {}
