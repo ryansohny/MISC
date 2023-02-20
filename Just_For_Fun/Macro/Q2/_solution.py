@@ -1,5 +1,6 @@
 import os
 os.chdir("C:\\Users\\mhryansohn.MACROGEN\\Desktop\\GitHub_repo\\MISC\\Just_For_Fun\\Macro\\Q2")
+os.chdir("/Users/mhryansohn/Desktop/99.Miscellaneous/GitHub_Repo/MISC/Just_For_Fun/Macro/Q2") # mac
 
 with open("GroupA.txt", 'r') as af, open('GroupB.txt', 'r') as bf, open('GroupC.txt', 'r') as cf:
     a = list(map(lambda x: x.strip(), af.readlines()))
