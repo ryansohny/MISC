@@ -1,20 +1,20 @@
 #!/bin/bash
 #
-# drawHelix.sh <input.fa> 
+# drawHelix.sh <input.fa>
 #
 # Reads a fasta input file and stream a B-Form DNA
 # helix with the sequence to STDOUT
 #
 ##    __     __   __           ___
-###  |__) | /  \ /__` \ / |\ |  |   /\  \_/ 
-#### |__) | \__/ .__/  |  | \|  |  /~~\ / \ 
+###  |__) | /  \ /__` \ / |\ |  |   /\  \_/
+#### |__) | \__/ .__/  |  | \|  |  /~~\ / \
 #####=======================================
 ##   biosyntax.org                      v0.1
 #
 #    ABabaian -- artem@rRNA.ca
 #
 #    Props to @darokin for the gif-spiration
-#     
+#
 # TODO
 # - Add B- and Z-form DNA helices [-dna B|Z]
 
@@ -22,7 +22,8 @@
 
 # Input Fasta
 FASTA=$1
-  LINENUMBER=$(wc -l $FASTA | cut -f1 -d ' ' -)
+  #LINENUMBER=$(wc -l $FASTA | cut -f1 -d ' ' -)
+  LINENUMBER=$(zcat $FASTA | wc -l)
 
 DELAY='0.1s' # Delay between bases
 
@@ -61,7 +62,8 @@ fi
 
 for N in $(seq 3 $LINENUMBER) # iterate each line of FA
 do
-	SEQ=$(sed -n "$N"p $FASTA) # extract Nth line
+#	SEQ=$(sed -n "$N"p $FASTA) # extract Nth line
+	SEQ=$(sed -n "$N"p <(zcat $FASTA)) # extract Nth line
 
 	if [[ $SEQ =~ '^N+$' ]]; then # if all N line; skip
 		sleep 0 # do nothing
